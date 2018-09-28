@@ -1,14 +1,14 @@
 body {
     
-    background-color: #ADD8E6;
+    background-color: #d8ffff;
     
 }
 .containerRodape  {
     
-    background-color: #999;
-    color: #fff;
-    padding: 30px 0;
-    text-align: center;
+    //background-color: #999;
+   // color: #fff;
+    padding: 0 0;
+  //  text-align: center;
     width: 1300px;
     position: fixed;
     bottom:0;

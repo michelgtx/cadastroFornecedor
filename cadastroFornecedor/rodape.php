@@ -1,12 +1,17 @@
 
-<!--<div class="container">-->
+
 
 <div style="height: 80px;"> </div>
 
     <footer class="containerRodape">
 
-    &copy; Clínica Melhor Visão - A Nossa Vida é o Seu Olhar
+        <img src="fundo_index/rodapeImg.png"/>
 </footer>
     
-<!--    </div>-->
+<!--<div style="height: 80px;"> </div>
+
+    <footer class="containerRodape">
+
+    &copy; Clínica Melhor Visão - A Nossa Vida é o Seu Olhar
+</footer>-->
 

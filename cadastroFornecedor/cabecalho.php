@@ -4,7 +4,7 @@
 
     <header >
     
-        <img src="fundo_index/testeazul.png"/>
+        <img src="fundo_index/testeazulUp.png"/>
 <!--    <img src="fundo_index/teste22.png"/>-->
     <link href="estilos_cadastro.css" rel="stylesheet" />
 </header>
